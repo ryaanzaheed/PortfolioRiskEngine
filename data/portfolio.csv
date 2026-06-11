@@ -1,0 +1,12 @@
+ticker,weight,asset_class,description
+SPY,0.25,Equity,S&P 500 ETF
+QQQ,0.15,Equity,Nasdaq 100 ETF
+IWM,0.10,Equity,Russell 2000 Small Cap ETF
+EFA,0.10,Equity,MSCI EAFE International ETF
+TLT,0.15,Fixed Income,20+ Year Treasury Bond ETF
+IEF,0.05,Fixed Income,7-10 Year Treasury Bond ETF
+GLD,0.08,Commodity,Gold ETF
+XLE,0.05,Equity,Energy Sector ETF
+VNQ,0.04,Real Estate,Vanguard Real Estate ETF
+LQD,0.03,Fixed Income,Investment Grade Corporate Bond ETF
+
